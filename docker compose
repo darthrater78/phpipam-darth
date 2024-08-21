@@ -1,5 +1,6 @@
 # WARNING: Replace the [YOURPASS] passwords with secure secrets.
 # WARNING: 'my_secret_phpipam_pass' and 'my_secret_mysql_root_pass'
+# NOTE: The username/password for the automatic DB creation during automatic DB setup in the PHPIPAM UI is root/[password set for MYSQL_ROOT_PASSWORD]
 
 version: '3'
 
